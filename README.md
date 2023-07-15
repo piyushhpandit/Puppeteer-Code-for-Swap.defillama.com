@@ -32,7 +32,7 @@ node index.ts
 
 This command will launch a headful browser, navigate to swap.defillama.com, fill the form, select tokens, perform a swap, and click on the second second option in the section "Select a route to perform a swap" and capture a screenshot.
 
-##The code contains multiple steps, each serving a specific purpose. 
+## The code contains multiple steps, each serving a specific purpose. 
 
 Here's a breakdown of what each step does:
 
