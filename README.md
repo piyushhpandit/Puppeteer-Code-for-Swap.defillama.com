@@ -9,7 +9,7 @@ Before running the code, ensure you have the following prerequisites installed o
 1. [Node.js](https://nodejs.org) (version 14 or later)
 2. [npm](https://www.npmjs.com/) (Node.js package manager)
 
-##Installation
+## Installation
 
 1. Clone the repository to your local machine or download the code as a ZIP archive.
 2. Open a terminal or command prompt and navigate to the project directory.
