@@ -2,7 +2,7 @@
 
 This repository contains a Puppeteer code snippet that automates certain tasks on the website swap.defillama.com. The code launches a headful browser, navigates to the website, fills a form, selects tokens, and performs a swap. This README file provides a step-by-step procedure for running the code and understanding its functionality.
 
-##Prerequisites
+## Prerequisites
 
 Before running the code, ensure you have the following prerequisites installed on your system:
 
@@ -17,7 +17,7 @@ Before running the code, ensure you have the following prerequisites installed o
 
 npm install
 
-##Usage
+## Usage
 
 Follow the steps below to run the code:
 
@@ -25,7 +25,7 @@ Follow the steps below to run the code:
 2. Optional: Modify the code according to your specific requirements. Refer to the comments in the code for guidance.
 3. Save the file after making any changes.
 
-##To execute the code, run the following command in the terminal:
+## To execute the code, run the following command in the terminal:
 
 node index.ts
 
@@ -49,7 +49,7 @@ Here's a breakdown of what each step does:
 11. Captures a screenshot of the page and saves it as "screenshot.png".
 12. Keeps the browser window open indefinitely to prevent the program from terminating.
 
-##Customization
+## Customization
 
 You can customize the code according to your specific needs. Here are a few points to consider:
 
@@ -58,12 +58,12 @@ You can customize the code according to your specific needs. Here are a few poin
 - Change the timeout values (`page.waitForTimeout`) as per your requirements.
 - Explore Puppeteer's documentation (https://pptr.dev) to learn more about its capabilities and find additional customization options.
 
-##Known Limitations
+## Known Limitations
 
 - This code assumes that the website's UI remains unchanged. If the website's structure or CSS classes change, some code modifications may be required.
 - The code provided only covers a specific use case for swap.defillama.com. To adapt it for a different website or scenario, you may need to make significant modifications.
 
-##Troubleshooting
+## Troubleshooting
 
 If you encounter any issues while running the code, please ensure that:
 
